@@ -128,7 +128,7 @@ python neural_network_model.py
 
 ## License
 
-This project was created for educational purposes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
