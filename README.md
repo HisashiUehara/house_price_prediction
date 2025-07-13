@@ -129,7 +129,3 @@ python neural_network_model.py
 ## License
 
 This project was created for educational purposes.
-
-## Author
-
-[Your Name] 
