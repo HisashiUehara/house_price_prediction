@@ -109,8 +109,8 @@ python neural_network_model.py
 ## Future Improvements
 
 1. **Increase Data Volume**: Collect more data
-2. **Add Features**: Include building age, station distance, building structure, etc.
-3. **Try Different Methods**: Test Random Forest, SVM, etc.
+2. **Add Features**: Include building age, station distance, building structure, etc
+3. **Try Different Methods**: Test Random Forest, SVM, etc
 4. **Data Preprocessing**: Implement more detailed preprocessing and normalization
 
 ## Reflections
@@ -128,8 +128,4 @@ python neural_network_model.py
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-[Your Name]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
